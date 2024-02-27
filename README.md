@@ -18,3 +18,6 @@ model.load_state_dict(torch.load('PATH to file main_camera_extractor.pt'))
 model.eval()
 ```
 **Example**
+
+![](images/main_camera.png)
+![](images/not_main_camera.png)
