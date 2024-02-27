@@ -19,5 +19,5 @@ model.eval()
 ```
 **Example**
 
-![](images/main_camera.png)
-![](images/not_main_camera.png)
+![](images/main.png)
+![](images/not_main.png)
